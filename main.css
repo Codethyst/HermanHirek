@@ -37,7 +37,7 @@ body {
 .center-button:active {
     transform: scale(0.95) rotate(4deg); /* Shrink and rotate on click */
     box-shadow: 0 0 8px rgba(255, 255, 255, 0.8); /* More intense glow */
-    transition: transform 0.2s ease-in-out, outline-color 0.2s ease-in-out; /* Add outline-color transition */
+    transition: transform 0.18s ease-in-out, outline-color 0.2s ease-in-out; /* Add outline-color transition */
     outline-color: #ff0000; /* Change outline color to red on click */
     background-color: #242022; /* Change button background on click */
 }
